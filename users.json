@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Hazel",
+        "last_name": "Newstead",
+        "email": "hnewstead0@scientificamerican.com",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Dennis",
+        "last_name": "Eykel",
+        "email": "deykel1@elegantthemes.com",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Baudoin",
+        "last_name": "Borgnet",
+        "email": "bborgnet2@gov.uk",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Ingemar",
+        "last_name": "Bugge",
+        "email": "ibugge3@slate.com",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Carmencita",
+        "last_name": "GiacobbiniJacob",
+        "email": "cgiacobbinijacob4@dot.gov",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Frederique",
+        "last_name": "Lowthian",
+        "email": "flowthian5@statcounter.com",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Chiarra",
+        "last_name": "Merrill",
+        "email": "cmerrill6@a8.net",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Chloe",
+        "last_name": "Prantoni",
+        "email": "cprantoni7@seesaa.net",
+        "gender": "Polygender"
+    },
+    {
+        "id": 9,
+        "first_name": "Cinderella",
+        "last_name": "Waterdrinker",
+        "email": "cwaterdrinker8@unc.edu",
+        "gender": "Bigender"
+    },
+    {
+        "id": 10,
+        "first_name": "Jamey",
+        "last_name": "Fearnsides",
+        "email": "jfearnsides9@gizmodo.com",
+        "gender": "Male"
+    }
+]
